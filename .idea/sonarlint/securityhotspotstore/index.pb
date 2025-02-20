@@ -7,3 +7,5 @@ J
 tests/job-contract.test.ts,2/4/240337675df1651e90f65921595d4f30aaa88e8e
 N
 contracts/escrow-contract.clar,2/0/209e0d65f6d5da9f484d5eac6a589f4c895240d3
+M
+tests/escrow-contract.test.ts,0/d/0d87ae9e041ae29c141bf8e8f43e8345fc646064
