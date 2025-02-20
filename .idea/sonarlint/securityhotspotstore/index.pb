@@ -5,3 +5,5 @@ K
 contracts/job-contract.clar,c/0/c0df9159b431a0805d1490fc9f8d034c88453408
 J
 tests/job-contract.test.ts,2/4/240337675df1651e90f65921595d4f30aaa88e8e
+N
+contracts/escrow-contract.clar,2/0/209e0d65f6d5da9f484d5eac6a589f4c895240d3
